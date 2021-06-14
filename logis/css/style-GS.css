@@ -1,0 +1,299 @@
+html, body {
+	margin: 0;
+	font-family: "montserrat", sans-serif;
+	padding: 0;
+	text-decoration: none;
+}
+
+.header {
+  height: 80px;
+  background: none;
+  padding: 0 20px;
+  color: #000000;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  transition: 0.6s linear;
+  z-index: 1000;
+}
+
+.logo {
+  line-height: 80px;
+  float: left;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.logo img {
+  width: 60px;
+  height: 60px;
+
+}
+
+.menu {
+  float: right;
+  line-height: 80px;
+}
+
+.menu a {
+  color: #ffffff;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0 10px;
+  transition: 0.4s;
+}
+
+.show-menu-btn, .hide-menu-btn {
+  transition: 0.4s;
+  font-size: 30px;
+  cursor: pointer;
+  display: none;
+}
+
+.show-menu-btn {
+  float: right;
+  color: white;
+}
+
+.show-menu-btn i{
+  line-height: 80px;
+}
+
+
+.menu a:hover {
+  color: #33ccff;
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+.show-menu-btn:hover {
+  color: #ffffff;
+}
+
+.hide-menu-btn:hover {
+  color: #ffffff;
+}
+
+#chk {
+  position: absolute;
+  visibility: hidden;
+  z-index: -1111;
+}
+
+@media screen and (max-width: 800px) {
+  .show-menu-btn, .hide-menu-btn {
+    display: block;
+  }
+  .menu {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #333333;
+    right: -100%;
+    top: 0;
+    text-align: center;
+    padding: 80px 0;
+    line-height: normal;
+    transition: 0.7s;
+  }
+  .menu a {
+    display: block;
+    padding: 20px;
+  }
+  .hide-menu-btn {
+    position: absolute;
+    top: 40px;
+    right: 40px;
+  }
+  #chk:checked ~ .menu {
+    right: 0;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.parallax-header {
+  height: 100vh;
+  background: transparent;
+  box-shadow: 0 2px 4px #1a1a1a;
+  margin-bottom: 1px;
+}
+
+.parallax {
+  min-height: 400px;
+  background: transparent;
+}
+
+.hdng {
+	position: absolute;
+	z-index: 2;
+	color: #ffffff;
+	font-family: "Comic Sans MS", sans-serif;
+  height: 400px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-flow: row;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.hdng h1 {
+  left: 50%;
+}
+
+.main-head {
+	position: absolute;
+	z-index: 2;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+  font-family: "Comic Sans MS", sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+
+.main-head a {
+	color: #ffffff;
+	background: transparent;
+	padding: 0 10px;
+	border: none;
+	border-radius: 48px;
+	text-decoration: none;
+	font-size: 40px;
+}
+
+.main-head a:hover {
+	color: black;
+	background-color: white;
+	text-decoration: none;
+	transition: 0.4s ease;
+	mix-blend-mode: screen;
+}
+
+.groundstation, .activities, .tracking, .workshops {
+	margin: 50px 20px;
+	font-size: 15px;
+	padding: 0px 10px;
+	margin-left: 40px;
+}
+
+.groundstation ul, .activities ul, .workshops ul {
+	list-style-image: url('images/gs/ul.png');
+}
+
+.activities ul li {
+	font-weight: bold;
+}
+
+.tracking a, .workshops a {
+	text-decoration: none;
+	color: #003d66;
+}
+
+.tracking a:hover, .workshops a:hover {
+	text-decoration: none;
+	color: black;
+	transition: 0.5s;
+}
+
+.tracking table {
+	border-collapse: collapse;
+	width: 75%;
+	text-align: center;
+	margin: 0 auto;
+	box-shadow: 4px 4px 6px #636e72;
+	margin-top: 30px;
+	margin-bottom: 45px;
+}
+
+.tracking table td, .tracking table th {
+  border: 1px solid #595959;
+  padding: 8px;
+}
+
+.tracking table tr:nth-child(odd){background-color: #a29bfe;}
+
+.tracking table th {
+  background-color: #6c5ce7;
+  color: white;
+}
+
+.tracking #audio {
+	margin: 25px 0;
+	text-align: center;
+}
+
+.groundstation p, .activities p, .tracking p, .workshops p {
+	margin: 25px 8px;
+}
+
+.groundstation li, .activities li, .tracking li, .workshops li {
+	padding: 5px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  padding: 1rem;
+  position: sticky;
+  margin-top: 0px;
+}
+
+.footer-link {
+  color: #ffffff;
+  text-decoration: none; 
+}
+
+.footer-link:hover {
+  color: #33ccff;
+  transition: 0.4s ease;
+  text-decoration: none;
+}
+

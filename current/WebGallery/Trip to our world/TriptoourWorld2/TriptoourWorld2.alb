@@ -1,0 +1,70 @@
+<webalbum version="1.8.2">
+  <title>Trip to our World 2</title>
+  <description>
+    <line>Various photographs that I'd like to share on the Web.</line>
+  </description>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="100" height="75">medium</thumbsize>
+    <outputdirectory>E:\My Documents\MyPratham\pratham\WebGallery\Trip to our world\TriptoourWorld2\</outputdirectory>
+    <navigateinloop>False</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Default</colourscheme>
+    <pagecolor>16777215</pagecolor>
+    <textcolor>0</textcolor>
+    <linkcolor>16711680</linkcolor>
+    <hotlinkcolor>255</hotlinkcolor>
+    <thumbnailrows>5</thumbnailrows>
+    <thumbnailcols>4</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1172.JPG</filename>
+    </photo>
+    <photo>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1176.JPG</filename>
+    </photo>
+    <photo>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1177.JPG</filename>
+    </photo>
+    <photo>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1178.JPG</filename>
+    </photo>
+    <photo>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1180.JPG</filename>
+    </photo>
+    <photo>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1181.JPG</filename>
+    </photo>
+    <photo>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1182.JPG</filename>
+    </photo>
+    <photo>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1191.JPG</filename>
+    </photo>
+    <photo>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1192.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Sachin and Akshay after a long meeting </line>
+      </caption>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1193.JPG</filename>
+    </photo>
+    <photo>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1195.JPG</filename>
+    </photo>
+    <photo>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1197.JPG</filename>
+    </photo>
+    <photo>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1198.JPG</filename>
+    </photo>
+    <photo>
+      <title>New members</title>
+      <filename>E:\My Documents\Sat Pics\satellite pics\100_1199.JPG</filename>
+    </photo>
+  </photographs>
+</webalbum>

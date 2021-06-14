@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Home |IIT Bombay Student Satellite Project">
+    <meta name="keywords" content="About Pratham,Advitiy,Home,Pratham,IIT Bombay,IITB,Student Satellite,Satlab">
+	<meta name="google-site-verification" content="gO8kqg5T1brDcOXyLHgLblKVMgSXHZz6TFOkE8S3DPE" />
+    <meta name="author" content="Satlab WebTeam">
+    <title>GnC | IIT Bombay Student Satellite Project</title>
+	
+	<!-- core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/flipclock.css">
+	<link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->       
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+
+    <!-- Timeline and Team CSS added -->
+    <link href="./css/timeline.css" rel="stylesheet" type="text/css">
+    <link href="./css/team_members.css" rel="stylesheet" type="text/css">
+    <!-- Social media icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <!-- new links and script  for subsystem pages-->
+    <!--  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110447978-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-110447978-1');
+    </script>
+
+<style>
+    .box{
+        background-color: rgba(100, 120, 140, 0.9);
+        border-radius: 10px;
+        color: #fff;
+
+
+    }
+
+    @media screen and (min-width: 992px) {
+        .box {
+            background-color: rgba(100, 120, 140, 0.8) ;
+
+        }
+    }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 0 20px 0;
+  text-transform: none;
+  color: rgba(254, 82, 76, 1);
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  letter-spacing: 1px;
+  line-height: 1.5;
+}
+
+  
+/*Active Menu*/
+.dropdown #subsysM{
+  background-color: #3B5998;
+  color: #fff;}
+
+</style>
+
+</head><!--/head-->
+
+<body class="homepage">
+
+   <header id="header">
+    <nav class="navbar navbar-inverse" role="banner">
+        <!-- style="position:fixed;width:100%;z-index:1000;" data-interval="4000" -->
+        
+        <div class="container">
+            <table >
+                <tr>
+                <td rowspan="2"><a class="logoText" href="index.html"><img src="images/logo_patch.png"  width="80" height="80" alt="logo"></a></td>
+                <td style="vertical-align: bottom; padding-left:5px; padding-bottom: 2px;"><a class="logoText" href="index.html" >IIT Bombay</a></td>
+                </tr>
+                <tr>
+                <td style="vertical-align: top;  padding-left:5px; "><a class="tagLine" href="index.html" >Student Satellite Program</a></td>
+                </tr>
+            </table> 
+
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+        </div>
+
+
+        <div class="collapse navbar-collapse navbar-right">
+            <ul class="nav navbar-nav">
+
+                <li class="dropdown">
+                    <a href="#abtSatlab" class="dropdown-toggle" id="aboutM" data-toggle="dropdown" >About<i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="pratham.html">Pratham</a></li>
+                        <li><a href="advitiy.html">Advitiy</a></li>
+                        <li><a href="sanket.html">Sanket</a></li>
+                        <li><a href="stads.html">STADS</a></li>
+                        <li><a href="glee.html">GLEE</a></li>
+                        <li><a href="rvd.html">RVD</a></li>
+                        <li><a href="ham.html">HAM</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown" >
+                    <a href="#" class="dropdown-toggle" id="subsysM" data-toggle="dropdown">Subsystems<i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="commSS.html">Communication</a></li>
+                        <li><a href="gncSS.html">GnC</a></li>
+                        <li><a href="instrSS.html">Instrumentation</a></li>
+                        <li><a href="elecSS.html">Electrical</a></li>
+                        <li><a href="mechSS.html">Mechanical</a></li>
+                        <li><a href="payloadSS.html">Payload</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown" >
+                    <a href="#" class="dropdown-toggle" id="teamM" data-toggle="dropdown">Team<i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="currentTeam.html">Current Team</a></li>
+                        <li><a href="alumni.html">Alumni</a></li>
+<!--                         <li><a href="pratham_team.html">Pratham Team</a></li>
+                        <li><a href="distinguishedAlumni.html">Distinguished Alumni</a></li> -->
+                        <li><a href="faculty.html">Faculty</a></li>
+                        <li><a href="organizations.html">Organizations</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" id="projectM" data-toggle="dropdown">Project<i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="timeline.html">Timeline</a></li>
+                        <li><a href="logs.html">Logs</a></li>
+                        <li id="ddGS"><a>Ground Station<i class="fa fa-angle-down"></i></a>
+                            <div class="dd-content">
+                               <a href="groundStation.html">About GS</a>
+                               <a href="gsActivities.html">Activities</a>
+                               <a href="gsTracking.html">Tracking</a>
+                               <a href="gsWS.html">Workshop</a>
+                            </div> 
+                        </li>
+                        <li><a href="faq.html">FAQ</a></li> 
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" id="journeyM" data-toggle="dropdown">The Journey<i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="blogs.html">Blogs</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="media.html">Media</a></li>
+                        <li><a href="globalOut.html">Global Outreach</a></li> 
+                    </ul>
+                </li>             
+                <li class="dropdown">
+                     <a href="contact.html" id="contactM" >Contact</a>
+                </li>  
+                <li class="dropdown">
+                     <a href="wiki.html" id="wikiM" style="background-color: #3B5998;color: #fff;"><b>Wiki</b></a>
+                </li>            
+                    
+            </ul>
+        </div>  
+
+    </nav> 
+   </header>  
+
+<section  style="background-image: url(images/subsysBG/controlBG.png);background-size: cover;">
+
+    
+    <div class="pricing-area" style="margin-top: -30px;" >
+        <div class="container">
+            <div class="row">
+
+              <div class=" col-md-6">
+                </div>
+
+              <div class="col-md-6">
+                <div class="box">
+                    <h3 style="font-size: 48px;padding-left: 10px; margin-bottom: 5px;">GnC</h3>
+                    <div style="font-size :16px;text-align: left;padding: 0px 15px 15px 15px;">
+            
+                        <p>The guidance, navigation and control subsystem has the responsibility of controlling the position, trajectory and the attitude(i.e.orientation) of the satellite. Previously named as Attitude Determination and Control Subsystem, this subsystem’s name was changed to GNC to broaden its horizon and include the control of the trajectory and position of the satellite too rather than just the control of the attitude. The GNC subsystem has to perform the following tasks:</p>
+                        <p>
+                        <b>1</b>. To determine and alter the attitude of the satellite according to the requirements of the Communications, Power and Payload subsystems.<br>
+                        <b>2</b>. To control the trajectory and position of the satellite so that effective communication can be established with the ground station.<br>
+                        <b>3</b>. To perform orbit maneuvers, that is shift the orbit of the satellite.<br>
+                        <b>4</b>. To devise and verify through extensive simulations, the control algorithm that will stabilize the satellite once it is launched by the space vehicle.<br>
+                        <b>5</b>. To perform Failure Mode analysis to ensure that the satellite will sustain itself through unexpected events.</p>
+                    </div>
+                </div>
+              </div>
+              
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+    <footer id="footer" class="midnight-blue" style="border-top: 5px solid #3B5998;">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6" style="text-align:justify">
+                    &copy; IIT Bombay Student Satellite Program 2021. Any reproduction MUST be accompanied by a reference to the Satellite Program.
+                </div>
+                <div class="col-sm-6" id="web-manager">
+                    <ul class="pull-right">
+                       Developed and Maintained by <a href="/satlab/currentTeam.php"><b>Web Team, Student Satellite Program</b></a>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer><!--/#footer-->
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/fittext.js"></script>
+    <script src="js/lettering.js"></script>
+    <script src="js/textillate.js"></script>
+    <script>
+        $(function () {
+            $('.tlt').textillate({
+                loop: true,
+                minDisplayTime: 4000,
+                in: {
+                    effect: 'fadeInLeftBig',
+                    delayScale: 1.5,
+                    delay: 50,
+                    sync: true,
+                    shuffle: false,
+                    reverse: false,
+                },
+
+                out: {
+                    effect: 'fadeOutRightBig',
+                    delayScale: 1.5,
+                    delay: 50,
+                    sync: true,
+                    shuffle: false,
+                    reverse: true,
+                },
+            });
+        })
+    </script>
+
+</body>
+</html>
+

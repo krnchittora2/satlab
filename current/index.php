@@ -1,0 +1,328 @@
+<?php include('header.php'); ?>
+
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110447978-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-110447978-1');
+  </script>
+</head>
+
+<style>
+  @media only screen and (max-device-width: 480px) {
+    #my-fb-plugin {
+      text-align:center;
+      float:none !important;
+      width:100%;
+      margin-left:25%;
+    }
+  }
+</style>
+
+<!-- <div class="gs-ws" style="text-align: center;background-color: black;"><a href="https://www.aero.iitb.ac.in/satlab/gsWS.php" style="color: yellow; font-weight: bold;"><i class="fas fa-broadcast-tower"style="font-size:12px"></i>Ground Station Workshop on 19th Jan, 2020 at IIT Bombay. Click here for more information.</a></div> -->
+
+<section id="main-slider" class="no-margin">
+
+    <div class="carousel slide" data-ride="carousel" data-interval="4000">
+        <div class="carousel-inner">
+            <div class="parallax" style="background-image: url(images/slider/bg1.jpg)">
+                <div class="container">
+                    <div class="row slide-margin">
+                          <div class="carousel-content" style="font-family: Georgia, serif;font-size: 28px;font-style: italic; color:white;line-height: 1.45; margin-top:200px;">
+                              <center><div id="launch" style=" background: rgba(255, 255, 255, 0.5); margin-top:275px; border-bottom-right-radius:40px; border-bottom-right-radius:40px; "></div></center>
+                              <div class="animation animated-item-1">"Man must rise above Earth to the top of the atmosphere and beyond, for only then will he fully understand the world in which he lives" </div>
+                              <h2 class="animation animated-item-2" style="font-family: Georgia, serif; font-style: italic;">– Socrates (469-399 BC)</h2>
+                          </div>
+                    </div>							
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section><!--/#main-slider-->
+
+<section class="pricing-area" > 
+    <div class="container">
+        <div class="center wow fadeInDown">
+            <div id="abtSatlab">
+                <img id="logoiitb" src="images/iitb.png" width=150 style="padding-right: 20px;"/>
+                <h2><br>IIT Bombay Student Satellite Program</h2>
+            </div>
+            <br>
+            <div class="lead" style="text-align: justify; color: black">
+              <p>
+                The IIT Bombay Student Satellite Program (IITBSSP)  is a landmark project taken up by IIT Bombay students. The vision of this program is to make IIT Bombay a respected Centre of Excellence in Satellite and Space Technology in the world. An interdisciplinary team of 50+ students from the institute, across disciplines, are engaged in projects ranging from the design of space systems of various form factors to development of payloads.
+              </p> <br>
+                
+                <div class="container-fluid">
+                 <div class="row">
+                  <div class="col-sm-8">
+                    <p>The first satellite under this program was launched onboard the PSLV C-35 on 26th September 2016. Christened <a href="pratham.php" style="color: blue"><b>Pratham</b></a>,  being IIT Bombay's first foray into space technology, the satellite's payload was to produce data on the total electron count in the atmosphere, used for applications like GPS correction. Its beacon signal was received on 28th September and then again in December, at our ground station, providing 90% success to the mission. Downlink signal was never received because of which no payload data was generated.
+                    <br><br>
+                    Planned, designed, built and tested exclusively by the students, with guidance from Indian Space Research Organization (ISRO) and IIT Bombay faculty, the completely autonomous satellite Pratham took IIT Bombay into the elite space club and served as the first step towards achieving our overall objectives. That’s the reason Pratham is referred to as ‘The First Step Towards Infinity’.</p>
+                  </div>
+            
+               		<div class="col-sm-4">
+               			<img src="images/pratham.jpg" alt="Pratham" style="display: block; margin-left: auto; margin-right: auto; width:280px; height:auto;">
+<!--                			<p style="text-align: center;font-size: 20px; color: blue; margin-top: 5px">Pratham</p> -->
+                  </div>
+			           </div>
+			          </div>
+               
+               <br>
+               <p>
+	           	After launching the first satellite, the team invested time in developing the concept for its second satellite, <a href="advitiy.php" style="color: blue"><b>Advitiy</b></a> which means 'Second to None'.Advitiy was being designed to be the lightest actively controlled 1U CubeSat. The payload for this mission was to transmit stored and uplinked images via SSTV. In addition to this, the team aimed to create low-cost receivers which could be used to receive these images. During the mission design, the team worked on designing the antenna deployment system. A closed-loop simulation framework was developed to aid the design of Attitude Determination and Controls Subsystem. In parallel to this, the team worked on <a href="wiki.php" style="color: blue"><b> Satellite 101 wiki</b></a>, a systematic and organized compilation of the knowledge and the experience gained by the team through the journey of Pratham, IIT Bombay's first student satellite.
+
+	           	<br><br>
+	           	After the announcement of opportunity for<a href="https://www.isro.gov.in/update/15-jun-2019/announcement-of-opportunity-ao-orbital-platform" style="color: blue"><b> ISRO's PSLV Stage 4 Orbital Platform</b></a>,  the team decided to pause work on Advitiy and carry forward development of Antenna Deployment System along with other suitable CubeSat subsystems whose indigenous development will be of relevance. With this objective Antenna Deployment System and Star Tracker based Attitude Determination System are being developed. They are aimed to be tested on the Orbital Platform of stage 4 of PSLV.
+	           	<br><br>
+	           	The team is also working on a lunar mission called<a href="https://www.glee2023.org/" style="color: blue"><b> The Great Lunar Expedition for Everyone (GLEE)</b></a> which is an initiative by the University of Colorado Boulder to deploy 500 five-gram LunaSats, one of which will be designed by us, to the lunar surface to conduct local and distributed science missions. Inspired from NASA’s Apollo Moon landings 50 years ago, GLEE will be a catalyst for a new generation of space missions and explorers. 
+	           	<br><br>
+	           	The<a href="https://wwww.facebook.com/HamclubIITB/" style="color: blue"><b> Ham Radio Club, IIT Bombay</b></a> is also part of IITBSSP, which aims to maintain a functional ground station and encourage amateur radio activities in the institute. It organises an annual <a href="https://www.aero.iitb.ac.in/satlab/gsWS.php" style="color: blue"><b> Groundstation Workshop</b></a> for engineering colleges around the country to encourage them to set up their own ground station.
+              </p>
+            </div>
+		    </div>	    
+    
+        <div class="container">
+          <div class="row">
+
+              <div class="col-sm-6" style="">
+                <div style="margin: 5%;">
+                  <a href="pratham.php">
+                    <div>
+                      <img class="img img-responsive" id="sat" style="display: block; margin-left: auto; margin-right: auto;width: 280px; height: 280px; border:2px solid black; border-radius: 20px;" src="images/pratham_logo.png" />
+                    </div>
+<!--                     <div style="height: 20%;padding-top: 22px;font-size: 20px;color: blue;">
+                      <p>First step towards infinity...</p><br>
+                    </div> -->
+                  </a>
+                </div>    
+              </div>
+
+              <div class="col-sm-6" style="">
+                <div style="margin: 5%;">
+                  <a href="index.php">
+                    <div>
+                      <img class="img img-responsive" id="sat" style="display: block; margin-left: auto; margin-right: auto;width: 280px; height: 280px; border:2px solid black; border-radius: 20px;" src="images/IITBSSP2019.png" />
+                    </div>
+<!--                     <div style="height: 20%;padding-top: 22px;font-size: 20px;color: blue;">
+                      <p>Next step towards infinity...</p><br>
+                    </div> -->
+                  </a>
+                </div>    
+              </div>
+
+          </div>
+        </div>
+
+        <div class="lead" style="text-align: justify; color: black">
+          <br>
+          <p>
+            The IITBSSP patch depicts the Earth and India. That pale blue dot, the cradle of humanity where we come from - a point of reference, for literal and moral navigation. Representing the roots without which there would be no rockets. The (cube) satellite represents our own efforts to develop technology, helping illuminate the unknown dark voids - तमसो मा ज्योतिर्गमय, by generating scientific knowledge - ज्ञानं परमं ध्येयम्. The torch is passed on, through the years, and through various team members, in an endless endeavour of "आदिश् अनंत्य", or "aiming toward infinity".
+          </p>
+        </div>
+
+    </div>
+
+</section>	
+
+
+<!-- Project Managers -->
+<section id="bottom" >
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-7">
+          <div class="tab-wrap">
+            <div class="media">  
+
+              <div class="parrent pull-left">
+                  <ul class="nav nav-tabs nav-stacked">
+                    <li class="active"><a href="#tab1" data-toggle="tab" class="analistic-01">Current Project Manager</a> 
+                    <li class=""><a href="#tab4" data-toggle="tab" class="analistic-03">Current Faculty Advisers</a></li>
+                    <li class=""><a href="#tab5" data-toggle="tab" class="tehnical">Current Faculty Mentors</a></li>  
+        			      <li class=""><a href="#tab3" data-toggle="tab" class="tehnical">Ex-Project Managers</a></li>
+                    <li class=""><a href="#tab2" data-toggle="tab" class="analistic-02">Ex-Faculty Advisers</a></li>
+                  </ul>
+              </div>
+
+              <div class="parrent media-body">
+                <div class="tab-content">
+
+                  <div class="tab-pane active in" id="tab1">
+                    <div class="media">
+                      <div class="media-body">
+                        <p align="justify">
+                          <span style="font-weight: bold;">Sanskriti Bhansali</span><br/>
+                          Project Manager<br />
+                          IIT Bombay Student Satellite Program<br />
+                          Office: +91-22-2576-4147<br />
+                          Email:- pm.satlab.iitb@gmail.com
+                        </p>                 
+                        <!--<p align="justify"><span style="font-weight: bold; ">Ratnesh Mishra</span><br />
+                        Project Manager<br />
+                        Pratham,  IIT Bombay Student Satellite Project<br />
+                        Office: +91-22-2576-4147<br />Email:- ratnesh1607@gmail.com</p>
+                        <p align="justify"><span style="font-weight: bold; ">Manvi Dhawan</span><br />
+                        Project Manager<br />
+                        Pratham,  IIT Bombay Student Satellite Project<br />
+                        Office: +91-22-2576-4147<br />Email id:- manvidhawan1993@gmail.com</p>-->
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="tab-pane" id="tab2">
+                    <div class="media">
+                      <div class="media-body">
+										    <ul>
+                          <li><b>Prof. K. Sudhakar</b></li>
+                          <li>
+                            <b>Prof. Hemendra Arya</b><br>Assistant Professor<br>
+                            Department of Aerospace Engineering,<br>
+                            Indian Institute of Technology Bombay<br><br>
+                          </li>
+                          <li>
+                            <b>Prof. Prasanna M. Mujumdar</b><br>Assistant Professor<br>
+                            Department of Aerospace Engineering,<br>
+                            Indian Institute of Technology Bombay<br><br>
+                          </li>
+												</ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="tab-pane" id="tab4">
+                    <div class="media">
+                      <div class="media-body">
+                        <b>Prof. Prabhu Ramachandran</b><br>Assistant Professor<br>
+                        Department of Aerospace Engineering,<br>
+                        Indian Institute of Technology Bombay<br><br>
+
+                        <b>Prof. Arnab Maity</b><br>Assistant Professor<br>
+                        Department of Aerospace Engineering,<br>
+                        Indian Institute of Technology Bombay<br><br> 
+
+                    
+                        <b>Prof. Varun Bhalerao</b><br>Assistant Professor<br>
+                        Department of Physics,<br>
+                        Indian Institute of Technology Bombay<br><br>               
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="tab-pane" id="tab5">
+                    <div class="media">
+                      <div class="media-body">
+										    <ul>
+                          <li>
+                            <b><a href="https://www.ee.iitb.ac.in/web/faculty/homepage/rajeshzele">Prof. Rajesh H. Zele</a></b><br>
+                            Department of Electrical Engineering,<br>
+                            Indian Institute of Technology Bombay<br><br>
+                          </li>
+                          <li>
+                            <b><a href="http://www.sc.iitb.ac.in/~srikant/dokuwiki/doku.php">Prof. Srikant Sukumar</a></b><br>Associate Professor<br>
+                            Systems and Controls Engineering,<br>
+                            Indian Institute of Technology Bombay<br><br>
+                          </li>
+												</ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="tab-pane" id="tab3">
+                  	<ul>
+                  	  <li><b>Aniruddha Ranade</b>  &#60;aniruddha.ranade.iitb@gmail.com&#62; </li>
+                  	  <li><b>Anmol Sikka</b>  &#60;anmolsikka09@gmail.com&#62; </li>
+                      <li><b>Yash Sanghvi</b>  &#60;sanghviyash7@gmail.com&#62; </li>
+                      <li><b>Ratnesh Mishra</b> &#60;ratnesh1607@gmail.com&#62; </li>
+                      <li><b>Manvi Dhawan</b> &#60;manvidhawan1993@gmail.com&#62;</li>                  
+                      <li><b>Shantanu Shahane</b> &#60;shahaneshantanu@gmail.com&#62;</li>
+                      <li><b>Tushar Jadhav</b> &#60;tusharj.iitb@gmail.com&#62;</li>
+                      <li><b>Sanyam Mulay</b> &#60;sanyamsmulay@gmail.com&#62;</li>
+                      <li><b>Jhonny Santosh Jha</b> &#60;jhajhonny@gmail.com&#62;</li>
+                      <li><b>Saptarshi Bandyopadhyay(Co-founder)</b><br/>&#60;saptarshi.bandyopadhyay@gmail.com&#62;</li>
+                      <li><b>Shashank Tamaskar(Co-founder)</b><br/>&#60;tamaskar@gmail.com&#62;</li>
+                    </ul>
+                  </div>
+          
+                </div> <!--/.tab-content-->  
+              </div> <!--/.media-body--> 
+            </div> <!--/.media-->     
+          </div><!--/.tab-wrap-->      
+        </div><!--/.col-sm-6-->
+  		
+        <div class="fb-page" id="my-fb-plugin" style="float:right; width:40%;" data-href="https://www.facebook.com/iitb.student.satellite/" data-tabs="timeline" data-width="500px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+          <blockquote cite="https://www.facebook.com/iitb.student.satellite/" class="fb-xfbml-parse-ignore">
+            <a href="https://www.facebook.com/iitb.student.satellite/">IITB Student Satellite</a>
+          </blockquote>
+        </div>
+
+      </div><!--/.row-->    
+    </div><!--/.container--> 
+</section><!--/#bottom--> 
+
+
+<?php include('footer.php'); ?>
+
+    <script src="js/jquery.js"></script>
+		<script src="js/flipclock.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/fittext.js"></script>
+	  <script src="js/lettering.js"></script>
+    <script src="js/textillate.js"></script>
+    <script>
+      $(function () {
+      	$('.tlt').textillate({
+      		loop: true,
+    			minDisplayTime: 7000,
+      		in: {
+  			    effect: 'fadeInLeftBig',
+  			    delayScale: 1.5,
+  			    delay: 50,
+  			    sync: true,
+  			    shuffle: false,
+  			    reverse: false,
+    				},
+      		out: {
+  			    effect: 'fadeOutRightBig',
+  			    delayScale: 1.5,
+  			    delay: 50,
+  			    sync: true,
+  			    shuffle: false,
+  			    reverse: true,
+    				},
+      	});
+  	  })
+    </script>
+
+  	<script type="text/javascript">
+      var sWidth = window.innerWidth
+      || document.documentElement.clientWidth
+      || document.body.clientWidth;
+      console.log(sWidth);
+      if(sWidth > 480) {
+      }		
+  	</script>
+
+    <div id="fb-root"></div>
+
+    <script>
+      (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=865422726839990";
+      fjs.parentNode.insertBefore(js, fjs);
+      }
+      (document, 'script', 'facebook-jssdk'));
+    </script>
+
+</body>
+</html>

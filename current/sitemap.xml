@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/</loc>
+  <lastmod>2015-01-14T05:03:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/index.html</loc>
+  <lastmod>2015-01-14T05:03:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/mission.html</loc>
+  <lastmod>2015-01-13T15:03:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/currentTeam.html</loc>
+  <lastmod>2015-01-13T15:03:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/distinguishedAlumni.html</loc>
+  <lastmod>2015-01-13T15:03:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/timeline.html</loc>
+  <lastmod>2015-01-13T15:03:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/subSystems.html</loc>
+  <lastmod>2015-01-13T15:03:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/groundStation.html</loc>
+  <lastmod>2015-01-13T15:03:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/documents.html</loc>
+  <lastmod>2015-01-13T15:03:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/logs.html</loc>
+  <lastmod>2015-01-13T15:03:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/global.html</loc>
+  <lastmod>2015-01-13T15:03:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/publications.html</loc>
+  <lastmod>2015-01-13T15:03:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/faq.html</loc>
+  <lastmod>2015-01-13T15:03:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/virtuallaboratory/index.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/contact.html</loc>
+  <lastmod>2015-01-13T15:03:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/structures.html</loc>
+  <lastmod>2015-01-11T12:01:36+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/payload.html</loc>
+  <lastmod>2015-01-11T12:01:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/power.html</loc>
+  <lastmod>2015-01-11T12:01:36+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/obc.html</loc>
+  <lastmod>2015-01-11T12:01:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/controls.html</loc>
+  <lastmod>2015-01-11T12:01:31+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/comm.html</loc>
+  <lastmod>2015-01-11T12:01:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/virtuallaboratory/thermals.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/virtuallaboratory/heattransfer.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/virtuallaboratory/procedure.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/virtuallaboratory/experiment/experiment.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/virtuallaboratory/faq.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/virtuallaboratory/reference.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/virtuallaboratory/feedback.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/virtuallaboratory/contact.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/virtuallaboratory/experiment/equitorial1.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.aero.iitb.ac.in/pratham/virtuallaboratory/experiment/polar1.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+</urlset>

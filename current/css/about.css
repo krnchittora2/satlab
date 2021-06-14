@@ -1,0 +1,142 @@
+
+@import url('https://fonts.googleapis.com/css?family=Alegreya');
+
+/*****ABOUT PAGE******/
+.about-head {
+  display: block;
+  height: 60vh;
+  background: url('../img/slider.jpg');
+  background-size: cover;
+  clip-path: polygon(100% 0%,100% 80%,40% 100%,0% 80%,0% 0%);
+  font-family: 'Alegreya';
+}
+.about-title {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+}
+.about-title h1{
+  padding: 0 10px;
+  border: 2px solid transparent;
+  box-shadow: inset 5px 0px 0px 0px #fff;
+  box-sizing: border-box;
+  color: white;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+@media (max-width: 767px){
+  .about-title h1{
+    font-size: 30px;
+  }
+}
+
+.about-section1 {
+  display: block;
+  margin: 0%;
+  font-family: 'Alegreya';
+}
+.section1-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 5% auto;
+  vertical-align: middle;
+}
+#mid-img {
+  margin-top: 50%;
+}
+.section1-content {
+  margin: 5% 0%;
+}
+.section1-content p{
+  font-size: 18px;
+}
+
+.about-section2 {
+  display: block;
+  margin: 0%;
+  font-family: 'Alegreya';
+}
+.section2-img1 {
+  position: absolute;
+  display: inline-block;
+  width: 40%;
+  height: auto;
+  margin-top: 30%;
+  right: 40%;
+}
+.section2-img2 {
+  position: absolute;
+  display: inline-block;
+  width: 40%;
+  height: auto;
+  margin-top: 5%;
+  right: 5%;
+}
+.section2-content {
+  margin: 5% 0%;
+}
+.section2-content p{
+  font-size: 18px;
+}
+
+.about-section3{
+  display: block;
+  margin: 0%;
+  font-family: 'Alegreya';
+}
+.section3-content {
+  margin: 5% 0%;
+}
+.section3-content p{
+  font-size: 18px;
+}
+
+@media (max-width: 991px){
+  .section1-img{
+    display: inline-block;
+    width: 30vw;
+    margin: 3%;
+  }
+  #mid-img{
+    display: block;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .section2-img1, .section2-img2{
+    position: relative;
+    display: inline-block;
+    width: 30vw;
+    margin: 3%;
+    right: auto;
+  }
+  .about-section3 img{
+    display: block;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.dark-bg {
+  background: #212a3a;
+}
+.text-white {
+  color: #fff;
+}
+.text-center {
+  text-align: center;
+}
+.mt-5p {
+  margin-top: 5%;
+}
+.mt-25p {
+  margin-top: 25%;
+}
+.ft-18 {
+  font-size: 18px;
+}
+.mb-3p {
+  margin-bottom: 3%;
+}

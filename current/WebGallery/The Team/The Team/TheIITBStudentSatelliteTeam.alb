@@ -1,0 +1,70 @@
+<webalbum version="1.8.2">
+  <title>The IITB Student Satellite Team</title>
+  <description>
+    <line>The Satellite Team and Individual Sub-systems</line>
+  </description>
+  <settings>
+    <photosize width="800" height="600">large</photosize>
+    <thumbsize width="140" height="105">large</thumbsize>
+    <outputdirectory>E:\Website\WebGallery\B N Suresh\MeetingwithDrBNSuresh\</outputdirectory>
+    <navigateinloop>True</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Cheesecake</colourscheme>
+    <pagecolor>15793151</pagecolor>
+    <textcolor>128</textcolor>
+    <linkcolor>32896</linkcolor>
+    <hotlinkcolor>255</hotlinkcolor>
+    <thumbnailrows>5</thumbnailrows>
+    <thumbnailcols>4</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <title>The IITB Satellite Team</title>
+      <filename>E:\Destination\Gallery\bnsuresh meet\iitbsatgroup.jpg</filename>
+    </photo>
+    <photo>
+      <title>Communications Team</title>
+      <caption>
+        <line>(L to R) Kartavya, Amol, Viraj, Siddharth, Deepika</line>
+      </caption>
+      <filename>E:\Destination\Gallery\bnsuresh meet\Comm2.jpg</filename>
+    </photo>
+    <photo>
+      <title>Controls Team</title>
+      <caption>
+        <line>(L to R) Jaideep, Varzavand, Shashank, Mallesh, Chandrika</line>
+      </caption>
+      <filename>E:\Destination\Gallery\bnsuresh meet\Controls2.jpg</filename>
+    </photo>
+    <photo>
+      <title>Data and Command Handling Team</title>
+      <caption>
+        <line>(L to R) Chiraag, Aashay, Prashant, Omkar, Antariksh, Vishnu, Pratik</line>
+      </caption>
+      <filename>E:\Destination\Gallery\bnsuresh meet\OBC2.jpg</filename>
+    </photo>
+    <photo>
+      <title>Payload Team</title>
+      <caption>
+        <line>(L to R) Saptarshi, Abhinav, Pranjal, Ashish, Varun</line>
+      </caption>
+      <filename>E:\Destination\Gallery\bnsuresh meet\PAyload2.jpg</filename>
+    </photo>
+    <photo>
+      <title>Power Systems Team</title>
+      <caption>
+        <line>(L to R) Narendra, Mehul, Soham, Ameya</line>
+      </caption>
+      <filename>E:\Destination\Gallery\bnsuresh meet\PowerSys.jpg</filename>
+    </photo>
+    <photo>
+      <title>Structures Team</title>
+      <caption>
+        <line>(L to R) Ayanangshu, Mayank, Niranjan, Haripriya, </line>
+      </caption>
+      <filename>E:\Destination\Gallery\bnsuresh meet\structures.jpg</filename>
+    </photo>
+  </photographs>
+</webalbum>

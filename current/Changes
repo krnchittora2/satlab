@@ -1,0 +1,71 @@
+Done 9.8Kg
+Done dimensions
+conferences table
+Done timeline
+Gallery
+
+
+
+
+
+
+
+Logs
+2013 Feb 28, Participated in GMRT Science Exhibition Photos Needed
+April 2013 Recruitment of Team Members
+Post Recruitment Team Strength : 25
+May-June 2013, Training of newly recruited team members
+
+August 2013 Recruitment of Team Members
+March 2014 MoU with ISRO renew  till March 2016
+Feb 2014 Bangalore Conference Photos needed
+Dec 2014 Ground station renewation started
+CC 1020 - 1101
+Powerboard PIC - Atmega
+School
+September 2014 Toronto 7 papers published
+
+Changelog: 
+Centered Exploded View of Pratham Image on Home Page
+Changed Weight from 15Kg to 9.8Kg on Home Page
+Changed dimensions from 30cm to 26cm on Home Page
+Added text from the document to the Home Page
+Added Timeline
+Added Conferences Page
+Styled Tables [Mission, Distinguished Alumni and Conferences]
+
+Changelog:
+Added Current Mentor : Prof. Hemendra Arya on Home Page
+Added rounded borders and shadow effect to timeline images on Timeline Page under Project Category
+Updated Logs under the Project Category
+Updated titles of all pages to their respective page names - Better Search Engine Visibility
+Added Team Photo with rounded border on the Current Team Page under Team Category.
+Styled Tables for Organizations' names and Professors' names on the Current Team Page under Team Category.
+
+Reverse ORder Conferences
+IAC Full Form
+
+Change log:
+Reversed Order[Now latest first] of Conferences on Conferences Page under Project Category
+Fixed the long length of the list of profs on the Current Team Page under Project Category
+Linked the team structure image to their respective sub-systems page
+Corrected "prof XYZ from ABC" to "Prof XYZ, ABC" on Sub-System pages
+Added Ground Station page under Project Category
+
+Require data for:
+1/ The areas in which each prof has helped.
+2/ Names of Current and Old Team Members.
+3/ Short 2-3 lines description of each subsystem.
+
+
+
+1) (on main website)  On team current page, those alternate blue and white rows looks good but they length is little too long, reading becomes difficult. So revisit that design if you think/ DONE
+
+
+2) (on main website)  In case of profs list, you can give details about how they are helping us. Like Gaitonde sir is helping in thermals in that way.
+DATA REQUIRED
+
+3) Also add names of current and old team members. Link subsystem diagram with page (http://www.aero.iitb.ac.in/pratham/subSystems.html)  on which details of each subsystem is mentioned.
+4) On http://www.aero.iitb.ac.in/pratham/subSystems.html this page do not write about prof XYZ from ABC just write Prof XYZ, ABC
+5) Also under subsystem heading write some description.
+6) Where is ground station and other part?

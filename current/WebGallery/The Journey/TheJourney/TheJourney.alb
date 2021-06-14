@@ -1,0 +1,126 @@
+<webalbum version="1.8.2">
+  <title>The Journey</title>
+  <description>
+    <line>The inception of the satellite project, followed by Meetings, Presentations and Reviews</line>
+  </description>
+  <settings>
+    <photosize width="800" height="600">large</photosize>
+    <thumbsize width="140" height="105">large</thumbsize>
+    <outputdirectory>E:\Website\WebGallery\The Journey\TheJourney\</outputdirectory>
+    <navigateinloop>True</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Cheesecake</colourscheme>
+    <pagecolor>15793151</pagecolor>
+    <textcolor>128</textcolor>
+    <linkcolor>32896</linkcolor>
+    <hotlinkcolor>255</hotlinkcolor>
+    <thumbnailrows>5</thumbnailrows>
+    <thumbnailcols>4</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <title>The Inception (1)</title>
+      <caption>
+        <line>The first presentation about the Student Satellite Initiative (soon to be Student Satellite Project) made in IRCC</line>
+      </caption>
+      <filename>E:\Destination\Gallery\satellite pics\first meet.JPG</filename>
+    </photo>
+    <photo>
+      <title>The Inception (2)</title>
+      <caption>
+        <line>Saptarshi giving the presentation in IRCC</line>
+      </caption>
+      <filename>E:\Destination\Gallery\satellite pics\In the beginning.JPG</filename>
+    </photo>
+    <photo>
+      <title>The Inception (3)</title>
+      <caption>
+        <line>Shashank giving the presentation in IRCC</line>
+      </caption>
+      <filename>E:\Destination\Gallery\satellite pics\In the beginning_1.JPG</filename>
+    </photo>
+    <photo>
+      <title>The Selection</title>
+      <caption>
+        <line>Written test for selection in the satellite team</line>
+      </caption>
+      <filename>E:\Destination\Gallery\satellite pics\selection test.JPG</filename>
+    </photo>
+    <photo>
+      <title>The Action</title>
+      <caption>
+        <line>Making presentations on Aero Dept. stairs</line>
+      </caption>
+      <filename>E:\Destination\Gallery\satellite pics\making presestations.JPG</filename>
+    </photo>
+    <photo>
+      <title>The Snap</title>
+      <caption>
+        <line>Picture which appeared in the article about the Satellite Project in ToI</line>
+      </caption>
+      <filename>E:\Destination\Gallery\satellite pics\Newspaper pic.JPG</filename>
+    </photo>
+    <photo>
+      <title>The Meetings (1)</title>
+      <caption>
+        <line>Saptarshi in a Team Meeting</line>
+      </caption>
+      <filename>E:\Destination\Gallery\satellite pics\team meeting.jpg</filename>
+    </photo>
+    <photo>
+      <title>The Meetings (December Review Meeting)</title>
+      <caption>
+        <line>Mehul giving a presentation</line>
+      </caption>
+      <filename>E:\Destination\Gallery\satellite pics\Dec review meeting.jpg</filename>
+    </photo>
+    <photo>
+      <title>The Meetings (2)</title>
+      <filename>E:\Destination\Gallery\satellite pics\sat meeting\IMG_5871.JPG</filename>
+    </photo>
+    <photo>
+      <title>The Meetings (3)</title>
+      <caption>
+        <line>Deepika giving a presentation</line>
+      </caption>
+      <filename>E:\Destination\Gallery\satellite pics\sat meeting\IMG_5876.JPG</filename>
+    </photo>
+    <photo>
+      <title>The Work</title>
+      <caption>
+        <line>Setting up Computers at ALH</line>
+      </caption>
+      <filename>E:\Pratham Website\DON'T UPLOAD\Image755.jpg</filename>
+    </photo>
+    <photo>
+      <title>The Review Meetings (1)</title>
+      <caption>
+        <line>Saptarshi giving a presentation</line>
+      </caption>
+      <filename>E:\Destination\Gallery\satellite pics\review meetings1.JPG</filename>
+    </photo>
+    <photo>
+      <title>The Review Meetings (2)</title>
+      <caption>
+        <line>Professors of the Aerospace Department who have been actively involved in the project (L to R) Prof Arya, Prof Sudhakar, Prof Mazumdar</line>
+      </caption>
+      <filename>E:\Destination\Gallery\satellite pics\review meetings2.JPG</filename>
+    </photo>
+    <photo>
+      <title>The Review Meetings (3)</title>
+      <caption>
+        <line>Haripriya giving a presentation</line>
+      </caption>
+      <filename>E:\Destination\Gallery\satellite pics\Sat pics\IMG_6681.JPG</filename>
+    </photo>
+    <photo>
+      <title>The Presentation</title>
+      <caption>
+        <line>Presentation to Dr B N Suresh</line>
+      </caption>
+      <filename>E:\Destination\Gallery\bnsuresh meet\pre1.jpg</filename>
+    </photo>
+  </photographs>
+</webalbum>
